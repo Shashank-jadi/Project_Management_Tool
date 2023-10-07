@@ -1,0 +1,107 @@
+
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Header styles */
+header {
+    background-color: #007acc;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 0;
+    background-color: #007acc;
+    color: #fff;
+}
+
+.about, .services, .contact {
+    margin: 30px 0;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+/* Update your CSS styles to change background colors */
+/* Header styles */
+header {
+    background-color: #ff5733; /* Change to your preferred color code */
+    color: #fff;
+    padding: 10px 0;
+}
+
+/* Main content styles */
+.hero {
+    text-align: center;
+    padding: 100px 0;
+    background-color: #ff5733; /* Change to your preferred color code */
+    color: #fff;
+}
+
+.about {
+    background-color: #f9f9f9; /* Change to your preferred color code */
+    padding: 30px 0;
+}
+
+.services {
+    background-color: #e5e5e5; /* Change to your preferred color code */
+    padding: 30px 0;
+}
+
+.contact {
+    background-color: #f9f9f9; /* Change to your preferred color code */
+    padding: 30px 0;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
